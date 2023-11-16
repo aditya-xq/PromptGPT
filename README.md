@@ -1,6 +1,8 @@
 # PromptGPT: Crafting Creative Prompts with Self-Improving Feedback Loops
 
-Introducing **PromptGPT**, a specialized AI designed to generate creative and concise prompts while continuously improving through feedback loops.
+Introducing **PromptGPT**, a specialized AI designed to generate creative and concise prompts while continuously improving through feedback loops. It is your drop-in replacement for prompt engineering from the context of language and articulating thoughts better.
+
+I personally use it for creating prompts in my own workflows. It helps me streamline prompts well and use linguistic nuances within the given context, way beyond my current general knowledge.
 
 ## Explore PromptGPT
 
