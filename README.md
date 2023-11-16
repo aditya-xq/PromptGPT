@@ -19,5 +19,6 @@ To delve even further into PromptGPT, explore the following articles:
 - [Introducing PromptGPT: Let’s Make AI Accessible To Everyone](https://medium.com/the-research-nest/introducing-promptgpt-lets-make-ai-accessible-to-everyone-5f6bed964317): This article provides insights into the mission and vision behind PromptGPT, making AI accessible to a broader audience.
 
 - [PromptGPT version 1.1 updates](https://medium.com/the-research-nest/how-to-use-promptgpt-part-1-7d77f8c1187e)
+- [PromptGPT version 1.2 updates](https://medium.com/the-research-nest/how-to-use-promptgpt-part-2-9fb37f83fb62)
 
 Unlock the full potential of AI with PromptGPT and join the journey toward more creative, efficient, and accessible AI interactions.
