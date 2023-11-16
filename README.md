@@ -6,7 +6,7 @@ I personally use it for creating prompts in my own workflows. It helps me stream
 
 ## Explore PromptGPT
 
-Ready to experience the power of creative AI prompts? Give it a try right here: [PromptGPT](https://chat.openai.com/g/g-ExO1xp4Oh-promptgpt)
+Ready to experience the power of creative AI prompts? Give it a try right here: [PromptGPT](https://chat.openai.com/g/g-ExO1xp4Oh-promptgpt-10x)
 
 ## Learn More
 
